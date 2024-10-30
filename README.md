@@ -10,8 +10,10 @@
 1. Accept the invitation to join the classroom.
 2. A private repository will be created for you in GitHub Classroom, which includes the following items:
    - Two input files in data/tramlines.txt and data/tramstops.json.
-   - A test file (lab1_student_test.py) that you should not modify.
    - A template (tramdata.py) with the functions you need to implement and their related arguments. Please do not modify any function or argument names in the template.
+   - A test file (test_tramdata.py) where you need to implement your own tests.
+   - A test file (lab1_student_test.py) that you should not modify and can help to check your code.
+
 
 ### Step 2: Implementing Your Solution
 
