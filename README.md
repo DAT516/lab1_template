@@ -8,7 +8,8 @@
 ### Step 1: Joining the Classroom
 
 1. Accept the invitation to join the classroom.
-2. A private repository will be created for you in GitHub Classroom, which includes the following items:
+2. Add your lab partners to your team: Settings > Manage Access > Direct Access. Click on the name on your team and then Add a member. Everyone at the team would have access to all repositories that are created in the team, so adding members should be done only once
+3. A private repository will be created for you in GitHub Classroom, which includes the following items:
    - Two input files in data/tramlines.txt and data/tramstops.json.
    - A template (tramdata.py) with the functions you need to implement and their related arguments. Please do not modify any function or argument names in the template.
    - A test file (test_tramdata.py) where you need to implement your own tests.
